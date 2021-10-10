@@ -40,7 +40,7 @@
   "author": "Tim Kye",
   "license": "Apache-2",
   "dependencies": {
-    "uuid": "^3.3.2"
+    "uuid": "^3.4.0"
   },
   "devDependencies": {
     "@kyeotic/eslint-config": "^0.9.0",
